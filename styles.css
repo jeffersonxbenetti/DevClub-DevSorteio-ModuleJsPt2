@@ -40,6 +40,7 @@ input {
     margin: 10px;
     padding-left: 10px;
     background: #7c7c7c;
+    cursor: pointer ;
 }
 
 input::placeholder {
@@ -56,6 +57,7 @@ button {
     border-radius: 10px;
     margin-top: 40px;
     transition: 800ms ease-in-out;
+    cursor: pointer;
 }
 
 button:hover {
