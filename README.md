@@ -53,5 +53,7 @@
 <br>
 <h4 align="center">Link do projeto:</h4>
 <div align="center">
-  <a href="https://jeffersonxbenetti.github.io/DevClub-DevSorteio-ModuleJsPt2/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
+  <a href="https://jeffersonxbenetti.github.io/DevClub-DevSorteio-ModuleJsPt2/">
+    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+  </a>
 </div>
